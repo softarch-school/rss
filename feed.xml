@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    
+    <title type="text" xml:lang="zh-TW">Software Architecture School</title>
+    <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
+     <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
+    <updated>2016-03-02T20:00:00+08:00</updated>
+    <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
+    <author>
+        <name>William Yeh</name>
+    </author>
+    <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
+    
+
+
+
+    <entry>
+        <title>電腦界的隱喻：組態管理</title>
+        <link href="http://school.soft-arch.net/blog/90699/metaphor-in-cm"/>
+        <updated>2016-03-02T20:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/blog/90699/20160303035115181</id>
+        <content type="html">[趣聞]<br/>組態管理的四大工具，也是愛用隱喻的⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>帳號系統：還給你更真實的帳號 | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/800635"/>
+        <updated>2016-03-02T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303041053332</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元<br/>既然要模擬，就模擬得像一點！／ 帳號系統 (全長約 18 分鐘)。<br/>
+在 Vagrant 的虛擬機開機畫面中，或從 vagrant ssh-config 命令中，我們可以看到，Vagrant 自動幫我們設了一個 "vagrant" 登入帳號，並且以 "vagrant" 為密碼，或以 ".vagrant/machines/default/virtualbox/private_key" 為 private key 進行登入。<br/>一般情況下，以這種方式使用 Vagrant 就很夠了。<br/>不過，有時你可能會希望連「帳號」（以及 private key）這件事，都模擬得更像真實環境。畢竟在真實環境中，真的會有人取一個名叫 "vagrant" 的帳號嗎？<br/>既然要模擬，就模擬得像一點⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>網路系統：突破虛擬機的網路隔離措施 | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/781687"/>
+        <updated>2016-02-26T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303042146623</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元<br/>既然要模擬，就模擬得像一點！／ 網路系統 (全長近 22 分鐘)。<br/>虛擬機，本質上是一個模擬環境，而且是安全隔離的模擬環境。如果不做任何措施，它會將 guest machine 內部的網路運作，與外面 host machine 相互隔絕。<br/>有這種隔離措施，我們才能很放心的進行各種大膽的實驗，不怕搞壞 host machine。<br/>不過，有些時候，這種隔離措施也會反過來阻礙模擬的真實性⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>一句話囊括 DevOps 的目標</title>
+        <link href="http://school.soft-arch.net/blog/79569/devops-goals-in-a-nutshell"/>
+        <updated>2016-01-29T16:25:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/blog/79569/20160303035751473</id>
+        <content type="html">[讀書筆記]<br/>對 SEI 出版的書 "DevOps: A Software Architect's Perspective" 當中的第一章，做的簡要整理⋯⋯</content>
+    </entry>
+
+ 
+    <entry>
+        <title>DevOps 是圓的，找到立足點就是頂點</title>
+        <link href="http://school.soft-arch.net/blog/71706/devops-1st-step"/>
+        <updated>2015-12-28T20:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/blog/71706/20160303040248146</id>
+        <content type="html">Bryan 在【尋找天賦與熱情的系統化做法】大人學講座中曾提到一個觀點：「世界是圓的，找到立足點就是頂點。」<br/>我也想說：﻿「DevOps 是圓的，找到立足點就是頂點。」 ⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>CI 怎樣帶你遠離平庸？</title>
+        <link href="http://school.soft-arch.net/blog/70841/ci-effect"/>
+        <updated>2015-12-22T20:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/blog/70841/20160303040602805</id>
+        <content type="html">鄉愿一點來講，人生的每一抉擇，都可能是不歸路；後見之明來看，人生的每一轉折，也都可能是不歸路。如果不要陳義過高，回到具體一點的軟體研發情境，CI，的確夠資格當成是不歸路。 ⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>CI 是條不歸路</title>
+        <link href="http://school.soft-arch.net/blog/70585/ci-no-turning-back"/>
+        <updated>2015-12-21T20:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/blog/70585/20160303040655554</id>
+        <content type="html">CI/CD/DevOps 既是條不歸路，更是大躍進之路：一旦踏出第一步，就注定你會不斷接觸遠離平庸的新觀點、新技術⋯⋯</content>
+    </entry>
+
+</feed>
