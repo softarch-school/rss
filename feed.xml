@@ -2,6 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     
     <title type="text" xml:lang="zh-TW">Software Architecture School</title>
+    <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
     <updated>2016-03-02T21:00:00+08:00</updated>
@@ -15,7 +16,7 @@
 
 
     <entry>
-        <title>電腦界的隱喻：組態管理</title>
+        <title>電腦界的隱喻：組態管理 | 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/90699/metaphor-in-cm"/>
         <updated>2016-03-02T20:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/90699/20160303035115181</id>
@@ -80,7 +81,7 @@
 
 
     <entry>
-        <title>一句話囊括 DevOps 的目標</title>
+        <title>一句話囊括 DevOps 的目標 | 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/79569/devops-goals-in-a-nutshell"/>
         <updated>2016-01-29T16:25:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/79569/20160303035751473</id>
@@ -89,7 +90,7 @@
 
  
     <entry>
-        <title>DevOps 是圓的，找到立足點就是頂點</title>
+        <title>DevOps 是圓的，找到立足點就是頂點 | 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/71706/devops-1st-step"/>
         <updated>2015-12-28T20:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/71706/20160303040248146</id>
@@ -98,7 +99,7 @@
 
 
     <entry>
-        <title>CI 怎樣帶你遠離平庸？</title>
+        <title>CI 怎樣帶你遠離平庸？ | 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/70841/ci-effect"/>
         <updated>2015-12-22T20:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/70841/20160303040602805</id>
@@ -107,7 +108,7 @@
 
 
     <entry>
-        <title>CI 是條不歸路</title>
+        <title>CI 是條不歸路 | 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/70585/ci-no-turning-back"/>
         <updated>2015-12-21T20:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/70585/20160303040655554</id>
