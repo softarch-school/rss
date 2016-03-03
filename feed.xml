@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    
+
     <title type="text" xml:lang="zh-TW">Software Architecture School</title>
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-02T21:00:00+08:00</updated>
+    <updated>2016-03-04T01:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
-    
 
+
+
+    <entry>
+        <title>檔案系統：搞定存取權限 | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/781686"/>
+        <updated>2016-03-04T01:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303222701671</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>既然要模擬，就模擬得像一點！／ 檔案系統 (全長約 22 分鐘)。&lt;br/>&lt;br/>
+
+        前面的單元介紹過，透過 Vagrant 的 synced folder 機制，可以將 host machine 的某些目錄，掛載到 guest machine 裡面的某些指定目錄。兩邊的檔案系統會相互連動。&lt;br/>一般情況下，Vagrant 的這種設計，已經很夠用了。&lt;br/>不過，凡事總有例外。&lt;br/>我們以一個簡單的 PHP 5 案例，一步步解釋問題出在哪裡，又該如何解決。</content>
+    </entry>
 
 
     <entry>
@@ -88,7 +98,7 @@
         <content type="html">[讀書筆記]&lt;br/>對 SEI 出版的書 "DevOps: A Software Architect's Perspective" 當中的第一章，做的簡要整理⋯⋯</content>
     </entry>
 
- 
+
     <entry>
         <title>DevOps 是圓的，找到立足點就是頂點 | 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/71706/devops-1st-step"/>
