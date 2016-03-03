@@ -19,7 +19,7 @@
         <link href="http://school.soft-arch.net/blog/90699/metaphor-in-cm"/>
         <updated>2016-03-02T20:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/90699/20160303035115181</id>
-        <content type="html">[趣聞]<br/>組態管理的四大工具，也是愛用隱喻的⋯⋯</content>
+        <content type="html">[趣聞]&lt;br/>組態管理的四大工具，也是愛用隱喻的⋯⋯</content>
     </entry>
 
 
@@ -28,8 +28,8 @@
         <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/800635"/>
         <updated>2016-03-02T07:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303041053332</id>
-        <content type="html">[研發者的虛擬機寶盒] 新單元<br/>既然要模擬，就模擬得像一點！／ 帳號系統 (全長約 18 分鐘)。<br/>
-在 Vagrant 的虛擬機開機畫面中，或從 vagrant ssh-config 命令中，我們可以看到，Vagrant 自動幫我們設了一個 "vagrant" 登入帳號，並且以 "vagrant" 為密碼，或以 ".vagrant/machines/default/virtualbox/private_key" 為 private key 進行登入。<br/>一般情況下，以這種方式使用 Vagrant 就很夠了。<br/>不過，有時你可能會希望連「帳號」（以及 private key）這件事，都模擬得更像真實環境。畢竟在真實環境中，真的會有人取一個名叫 "vagrant" 的帳號嗎？<br/>既然要模擬，就模擬得像一點⋯⋯</content>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>既然要模擬，就模擬得像一點！／ 帳號系統 (全長約 18 分鐘)。&lt;br/>
+在 Vagrant 的虛擬機開機畫面中，或從 vagrant ssh-config 命令中，我們可以看到，Vagrant 自動幫我們設了一個 "vagrant" 登入帳號，並且以 "vagrant" 為密碼，或以 ".vagrant/machines/default/virtualbox/private_key" 為 private key 進行登入。&lt;br/>一般情況下，以這種方式使用 Vagrant 就很夠了。&lt;br/>不過，有時你可能會希望連「帳號」（以及 private key）這件事，都模擬得更像真實環境。畢竟在真實環境中，真的會有人取一個名叫 "vagrant" 的帳號嗎？&lt;br/>既然要模擬，就模擬得像一點⋯⋯</content>
     </entry>
 
 
@@ -38,7 +38,7 @@
         <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/781687"/>
         <updated>2016-02-26T07:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303042146623</id>
-        <content type="html">[研發者的虛擬機寶盒] 新單元<br/>既然要模擬，就模擬得像一點！／ 網路系統 (全長近 22 分鐘)。<br/>虛擬機，本質上是一個模擬環境，而且是安全隔離的模擬環境。如果不做任何措施，它會將 guest machine 內部的網路運作，與外面 host machine 相互隔絕。<br/>有這種隔離措施，我們才能很放心的進行各種大膽的實驗，不怕搞壞 host machine。<br/>不過，有些時候，這種隔離措施也會反過來阻礙模擬的真實性⋯⋯</content>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>既然要模擬，就模擬得像一點！／ 網路系統 (全長近 22 分鐘)。&lt;br/>虛擬機，本質上是一個模擬環境，而且是安全隔離的模擬環境。如果不做任何措施，它會將 guest machine 內部的網路運作，與外面 host machine 相互隔絕。&lt;br/>有這種隔離措施，我們才能很放心的進行各種大膽的實驗，不怕搞壞 host machine。&lt;br/>不過，有些時候，這種隔離措施也會反過來阻礙模擬的真實性⋯⋯</content>
     </entry>
 
 
@@ -47,7 +47,7 @@
         <link href="http://school.soft-arch.net/blog/79569/devops-goals-in-a-nutshell"/>
         <updated>2016-01-29T16:25:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/79569/20160303035751473</id>
-        <content type="html">[讀書筆記]<br/>對 SEI 出版的書 "DevOps: A Software Architect's Perspective" 當中的第一章，做的簡要整理⋯⋯</content>
+        <content type="html">[讀書筆記]&lt;br/>對 SEI 出版的書 "DevOps: A Software Architect's Perspective" 當中的第一章，做的簡要整理⋯⋯</content>
     </entry>
 
  
@@ -56,7 +56,7 @@
         <link href="http://school.soft-arch.net/blog/71706/devops-1st-step"/>
         <updated>2015-12-28T20:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/blog/71706/20160303040248146</id>
-        <content type="html">Bryan 在【尋找天賦與熱情的系統化做法】大人學講座中曾提到一個觀點：「世界是圓的，找到立足點就是頂點。」<br/>我也想說：﻿「DevOps 是圓的，找到立足點就是頂點。」 ⋯⋯</content>
+        <content type="html">Bryan 在【尋找天賦與熱情的系統化做法】大人學講座中曾提到一個觀點：「世界是圓的，找到立足點就是頂點。」&lt;br/>我也想說：﻿「DevOps 是圓的，找到立足點就是頂點。」 ⋯⋯</content>
     </entry>
 
 
