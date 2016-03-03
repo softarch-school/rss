@@ -4,7 +4,7 @@
     <title type="text" xml:lang="zh-TW">Software Architecture School</title>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-02T20:00:00+08:00</updated>
+    <updated>2016-03-02T21:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
@@ -29,7 +29,8 @@
         <updated>2016-03-02T07:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303041053332</id>
         <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>既然要模擬，就模擬得像一點！／ 帳號系統 (全長約 18 分鐘)。&lt;br/>&lt;br/>
-在 Vagrant 的虛擬機開機畫面中，或從 vagrant ssh-config 命令中，我們可以看到，Vagrant 自動幫我們設了一個 "vagrant" 登入帳號，並且以 "vagrant" 為密碼，或以 ".vagrant/machines/default/virtualbox/private_key" 為 private key 進行登入。&lt;br/>一般情況下，以這種方式使用 Vagrant 就很夠了。&lt;br/>不過，有時你可能會希望連「帳號」（以及 private key）這件事，都模擬得更像真實環境。畢竟在真實環境中，真的會有人取一個名叫 "vagrant" 的帳號嗎？&lt;br/>既然要模擬，就模擬得像一點⋯⋯</content>
+
+        在 Vagrant 的虛擬機開機畫面中，或從 vagrant ssh-config 命令中，我們可以看到，Vagrant 自動幫我們設了一個 "vagrant" 登入帳號，並且以 "vagrant" 為密碼，或以 ".vagrant/machines/default/virtualbox/private_key" 為 private key 進行登入。&lt;br/>一般情況下，以這種方式使用 Vagrant 就很夠了。&lt;br/>不過，有時你可能會希望連「帳號」（以及 private key）這件事，都模擬得更像真實環境。畢竟在真實環境中，真的會有人取一個名叫 "vagrant" 的帳號嗎？&lt;br/>既然要模擬，就模擬得像一點⋯⋯</content>
     </entry>
 
 
@@ -38,7 +39,43 @@
         <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/781687"/>
         <updated>2016-02-26T07:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-03-03:/courses/vm-for-devops/lectures/20160303042146623</id>
-        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>既然要模擬，就模擬得像一點！／ 網路系統 (全長近 22 分鐘)。&lt;br/>&lt;br/>虛擬機，本質上是一個模擬環境，而且是安全隔離的模擬環境。如果不做任何措施，它會將 guest machine 內部的網路運作，與外面 host machine 相互隔絕。&lt;br/>有這種隔離措施，我們才能很放心的進行各種大膽的實驗，不怕搞壞 host machine。&lt;br/>不過，有些時候，這種隔離措施也會反過來阻礙模擬的真實性⋯⋯</content>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>既然要模擬，就模擬得像一點！／ 網路系統 (全長近 22 分鐘)。&lt;br/>&lt;br/>
+
+        虛擬機，本質上是一個模擬環境，而且是安全隔離的模擬環境。如果不做任何措施，它會將 guest machine 內部的網路運作，與外面 host machine 相互隔絕。&lt;br/>有這種隔離措施，我們才能很放心的進行各種大膽的實驗，不怕搞壞 host machine。&lt;br/>不過，有些時候，這種隔離措施也會反過來阻礙模擬的真實性⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>連 Python 都沒有，怎麼辦？ | Ansible Workshop</title>
+        <link href="http://school.soft-arch.net/courses/ansible/lectures/798994"/>
+        <updated>2016-02-23T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/courses/ansible/lectures/20160303074153446</id>
+        <content type="html">[Ansible 常見問題]&lt;br/>
+        連 Python 都沒有，怎麼辦？ (影片全長 14 分鐘)&lt;br/>&lt;br/>
+
+        某些暫時無法汰換的老舊主機，或是講究輕量化、極簡化的 Linux distribution，尤其是嵌入式系統，為了節省空間，常常沒有預載 Python。&lt;br/>如果想將這些系統也納入 Ansible 的管理範圍，我們就要先安裝或升級新一點的 Python 版本進去。&lt;br/>這一課，我們以嵌入式系統、minimal Docker container 領域常見的一套 Alpine Linux 為例，示範如何裝一份 Python 進去，讓它可以進而被 Ansible 所管理。</content>
+    </entry>
+
+
+    <entry>
+        <title>用 Ansible 設定雲端主機組態 | Ansible Workshop</title>
+        <link href="http://school.soft-arch.net/courses/ansible/lectures/737132"/>
+        <updated>2016-02-14T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/courses/ansible/lectures/20160303074844019</id>
+        <content type="html">[Ansible 第二式]&lt;br/>用 Ansible 設定雲端主機組態 (影片全長 14 分鐘)&lt;br/>&lt;br/>
+
+        上一課，我們先以本機端的虛擬機為例，示範如何用 Ansible 來設定它的組態。了解 Ansible 的 control machine 及 managed node 的運作邏輯之後，這一課，我們會將經驗套用到雲端主機身上。&lt;br/>我們會探討兩種雲端主機的情境：&lt;br/>① Ansible control machine 可以直接觸碰到 managed node 時。&lt;br/>② Ansible control machine 無法直接觸碰到 managed node 時。</content>
+    </entry>
+
+
+    <entry>
+        <title>用 Ansible 設定虛擬機組態 | Ansible Workshop</title>
+        <link href="http://school.soft-arch.net/courses/ansible/lectures/737129"/>
+        <updated>2016-02-05T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-03:/courses/ansible/lectures/20160303074903709</id>
+        <content type="html">[Ansible 起手式]&lt;br/>用 Ansible 設定虛擬機組態 (影片全長 15 分鐘)。&lt;br/>&lt;br/>
+
+        任何主機（不管是實體機、本地虛擬機、雲端主機），只要有提供 SSH 登入的途徑，也有預載 Python 2.x 版，就能被視為 managed node，就能被 Ansible 系統管理。&lt;br/>這一課，我們先以本機端的虛擬機為例，示範如何用 Ansible 來設定它的組態。了解 Ansible 的 control machine 及 managed node 的運作邏輯之後，下一課再將經驗套用到雲端主機身上。&lt;br/>這段教學影片中，我以 Ansible 軟體來示範兩種組態管理的手法：&lt;br/>① 「Ansible → Vagrant」操作動線，&lt;br/>② 以 Vagrant 為中心的操作動線。</content>
     </entry>
 
 
