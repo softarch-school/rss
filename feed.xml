@@ -5,13 +5,24 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-04T01:00:00+08:00</updated>
+    <updated>2016-03-07T01:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>記憶體不夠，怎麼辦？ | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/780719"/>
+        <updated>2016-03-07T01:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-06:/courses/vm-for-devops/lectures/20160306172109084</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>記憶體不夠，怎麼辦？ (全長約 9 分鐘)。&lt;br/>&lt;br/>
+
+        各個 Vagrant box 製作者，都會替它設好「在大多數情況下」夠用的初始值。不過，某些時候，這些初始值可能會不夠用。&lt;br/>譬如說，如果想在虛擬機裡面跑比較大的軟體，記憶體常常會不夠用。這時候，該怎麼辦？ </content>
+    </entry>
 
 
     <entry>
