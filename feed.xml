@@ -5,13 +5,24 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-07T13:30:00+08:00</updated>
+    <updated>2016-03-07T23:30:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>能不能分配多核心給虛擬機用？ | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/780723"/>
+        <updated>2016-03-07T23:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-07:/courses/vm-for-devops/lectures/20160307162153154</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>能不能分配多核心給虛擬機用？ (全長約 7 分鐘)。&lt;br/>&lt;br/>
+
+        各個 Vagrant box 製作者，都會替它設好「在大多數情況下」夠用的初始值。不過，某些時候，這些初始值可能會不夠用。&lt;br/>譬如說，近代軟體系統，通常都會善用多核心 CPU 的威力。如果想在虛擬機裡面模擬出多核心 CPU，而不要只有可憐的 1 顆 CPU，該怎麼辦？  </content>
+    </entry>
 
 
     <entry>
