@@ -5,13 +5,24 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-07T23:30:00+08:00</updated>
+    <updated>2016-03-08T23:30:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>我想要 GUI 模式的虛擬機 | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/780721"/>
+        <updated>2016-03-08T23:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-08:/courses/vm-for-devops/lectures/20160308164856085</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>我想要 GUI 模式的虛擬機 (全長約 11 分鐘)。&lt;br/>&lt;br/>
+
+        雖然以 server 實務而言，特別是雲端的 server，大半都是以純文字模式在運作。不過，懷舊的人，想要看到舊式的 login console 視窗；或是遇到特別需要召喚出 GUI 視窗系統的情況，該怎麼辦？  </content>
+    </entry>
 
 
     <entry>
