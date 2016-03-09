@@ -5,13 +5,24 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-08T23:30:00+08:00</updated>
+    <updated>2016-03-10T01:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>Synced folder 有時無效，怎麼辦？ | 研發者的虛擬機寶盒</title>
+        <link href="http://school.soft-arch.net/courses/vm-for-devops/lectures/825482"/>
+        <updated>2016-03-10T01:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-09:/courses/vm-for-devops/lectures/20160309223620691</id>
+        <content type="html">[研發者的虛擬機寶盒] 新單元&lt;br/>Synced folder 有時無效，怎麼辦？ (全長約 19 分鐘)。&lt;br/>&lt;br/>
+
+        想在 Vagrant 裡使用 synced folder 功能，有個前提：guest machine 裡面，要預載一份虛擬機軟體提供的小工具，才能打通 host machine 與 guest machine 之間的目錄共享機制。&lt;br/>正常情況下，我們選用的 Vagrant box 都會先預載上述的小工具（沒有的話，就是你選錯了！請到 Atlas 網站 重新挑選吧）。不過，事情總有例外⋯⋯ </content>
+    </entry>
 
 
     <entry>
