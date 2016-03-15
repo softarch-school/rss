@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-10T01:00:00+08:00</updated>
+    <updated>2016-03-15T06:30:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>POLP：最小權限原則 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/95524/polp-intro"/>
+        <updated>2016-03-15T06:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-15:/blog/95524/20160315064546867</id>
+        <content type="html">對於帳號權限不知道該如何設定的人，通常最好的方式是：觀摩別人是怎麼做的，尤其是經典級的 services。&lt;br/>從 Apache、Nginx、MySQL 三個經典案例，可以歸納出一個小結論：「他們都盡可能不以 root 身分執行。」或者用更有學問的說法：他們都遵循最小權限原則 (principle of least privilege; POLP)。⋯⋯</content>
+    </entry>
 
 
     <entry>
