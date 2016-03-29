@@ -5,13 +5,33 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-15T06:30:00+08:00</updated>
+    <updated>2016-03-30T01:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>多工切換：有趣的 Lean 觀點 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/101712/lean-perspective-of-multitasking"/>
+        <updated>2016-03-30T01:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-29:/blog/101712/20160329170807820</id>
+        <content type="html">以電腦運作原理來看，多工、工作切換，代價是 context switch 的 overhead。所以，近代敏捷開發方法論，總是希望在制度設計上盡量降低工作切換。&lt;br/>原本我也把它當成不證自明的常識。不過，偶然看到 Lean Thinking 提到的一項實驗，大大顛覆我的成見。⋯⋯</content>
+    </entry>
+
+
+    <entry>
+        <title>貨櫃革命 | Docker Workshop 首部曲：基礎篇</title>
+        <link href="http://school.soft-arch.net/courses/docker-part1/lectures/899918"/>
+        <updated>2016-03-24T06:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-03-29:/courses/docker-part1/lectures/20160329171251921</id>
+        <content type="html">[Docker Workshop 首部曲：基礎篇] 新單元&lt;br/>貨櫃革命 (全長約 16 分鐘)。&lt;br/>&lt;br/>
+
+        Container，台灣翻譯成「貨櫃」，對岸翻譯成「集裝箱」。&lt;br/>許多 Docker 的 logo 都會向「貨櫃」、「貨輪」這類的概念形象致意。你知道為什麼嗎？&lt;br/>我從 YouTube 搜集了四段影片，剪接重點，並在關鍵片段配上自己翻譯的字幕，幫助你從「實體」的貨櫃演進史，理解整個貨櫃運輸的背景脈絡。&lt;br/>拿「實體」的金屬貨櫃，與電腦界的「虛擬」貨櫃，兩相對照，可以得到許多啟發。 </content>
+    </entry>
 
 
     <entry>
