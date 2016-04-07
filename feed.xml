@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-03-30T01:00:00+08:00</updated>
+    <updated>2016-04-06T13:30:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>Docker 端出 Unikernel 路線的第一道菜 | 軟體架構・絮語</title>
+        <link href="school.soft-arch.net/blog/105172/docker-unikernel"/>
+        <updated>2016-04-06T13:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-04-07:/blog/105172/20160407025731284</id>
+        <content type="html">現在 Docker engine for Mac/Windows 雖然只是小小展示一下 hypervisor 的火力（嚴格來說，甚至連 unikernel 的威力都還沒用上），但在可預期的未來，將對其他所謂的 Container OS 陣營帶來不小的威脅。&lt;br/>擁有自主的 hypervisor/unikernel 技術能力，究竟有多麼重要？&lt;br/>就以一個 Mac/Windows 用戶常見的 FAQ 來說吧⋯⋯</content>
+    </entry>
 
 
     <entry>
