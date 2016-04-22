@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-04-06T13:30:00+08:00</updated>
+    <updated>2016-04-22T22:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>向工廠管理致敬 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/111886/learn-from-plant-mgmt"/>
+        <updated>2016-04-22T22:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-04-22:/blog/111886/20160422140948642</id>
+        <content type="html">身為徹頭徹尾的軟體人，在軟體產業待久了，總會對「硬」一點的產業，尤其是製造業，有莫名的成見，以為他們是僵固的、反人性的。從 1972 年「軟體危機」引發的論述當中，更加深軟體人的印象：製造業的經驗，是無法直接套用到軟體界的；我們是截然不同的國度。&lt;br/>不過，近十年來許多軟體界的流程改革，尤其是同屬 Agile 陣營的 Scrum 及 Kanban，居然有許多元素是從製造業偷竊學習而來：由 Toyota 引領風潮的 Lean Production 及 JIT，是相關文獻最常引述的；但其實還有從 TOC 學來的流程分析及改善手法。&lt;br/>因此，最近為了準備一場 Agile/DevOps 演講，我特地研讀了數本原典，希望能對某些核心的思考元素來一場溯源之旅⋯⋯</content>
+    </entry>
 
 
     <entry>
