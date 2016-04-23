@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-04-22T22:00:00+08:00</updated>
+    <updated>2016-04-23T23:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>向遊戲學習 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/112281/learn-process-mgmt-by-game"/>
+        <updated>2016-04-23T23:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-04-23:/blog/112281/20160423155431141</id>
+        <content type="html">前一篇文章〈向工廠管理致敬〉提到，最近為了準備一場 Agile/DevOps 演講，我特地研讀了數本原典，希望能對某些核心的思考元素來一場溯源之旅。&lt;br/>啃原典，其實還有另一個原因：為了好好替今天要去大玩特玩的小火車遊戲⋯⋯喔，不，是為了替今天要專程去上的一門【102 流程設計與跨部門溝通】課程預作準備。&lt;br/>盯上這門課，其實已經很久了。只是這門課⋯⋯</content>
+    </entry>
 
 
     <entry>
