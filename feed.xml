@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-04-23T23:00:00+08:00</updated>
+    <updated>2016-05-03T23:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>有了 Agile，為什麼還要有 DevOps？ | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/115652/devops-a-lean-perspective"/>
+        <updated>2016-05-03T23:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-05-04:/blog/115652/20160504072515563</id>
+        <content type="html">今晚在 Agile Meetup Taipei 演講【有了 Agile，為什麼還要有 DevOps？】，投影片及現場實況錄影，全長 2 小時，歡迎享用。⋯⋯</content>
+    </entry>
 
 
     <entry>
