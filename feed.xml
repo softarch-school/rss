@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-05-24T23:00:00+08:00</updated>
+    <updated>2016-06-21T07:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>《鳳凰項目》私房標題 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/135333/phoenix-proj-titles"/>
+        <updated>2016-06-21T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-06-21:/blog/135333/20160621065207102</id>
+        <content type="html">我很好奇：DevOps 的「核心衝突」究竟是什麼？&lt;br/>我想效法《絕不是靠運氣》的主角 Rogo、《鳳凰項目》的主角 Bill，嘗試獨立思考。&lt;br/>我興致勃勃的照著高德拉特 Thinking Processes 的步驟，針對 DevOps 常見的問題／痛點／抱怨，老老實實地從 UDE → CRT → Clouds → injection → FRT 一路推導 DevOps 議題。&lt;br/>赫然發現：超誇張的，光是用 CRT，就能初步推導出 DevOps 的 CALMS 及所謂的 "The Three Ways"⋯⋯</content>
+    </entry>
 
 
     <entry>
