@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-06-21T07:00:00+08:00</updated>
+    <updated>2016-06-28T07:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>改變的框架 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/139468/change-framework"/>
+        <updated>2016-06-28T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-06-28:/blog/139468/20160628035623557</id>
+        <content type="html">對我來說，高德拉特代表一種極度陽剛的思維角度，薩提爾代表一種極度柔軟的治療角度。&lt;br/>這麼形容，並不代表他們是分處「剛」與「柔」兩個極端；相反的，越深入研究，越可體會出剛柔相濟的妙境。像高德拉特在《絕不是靠運氣》書中，演示了許多極度柔軟的「TOC 式說服程序」；而《薩提爾的家族治療模式》中闡釋的「高自我價值」，高度健旺的生命態度，令人動容。&lt;br/>這些特質，正與「大人思維」不謀而合。&lt;br/>所以，在某個層次上，「剛」與「柔」並不是兩個極端，而是可以協調產生綜效的。⋯⋯</content>
+    </entry>
 
 
     <entry>
