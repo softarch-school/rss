@@ -5,13 +5,31 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-06-28T07:00:00+08:00</updated>
+    <updated>2016-08-08T07:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>運算思維其實一點也不神祕 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/154064/on-computational-thinking"/>
+        <updated>2016-08-08T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-08-08:/blog/154064/20160808073021715</id>
+        <content type="html">運算思維，聽起來既神祕，又抽象。滿容易震懾外行人的。&lt;br/>其實「運算思維」沒有太神祕複雜，也不全然是計算機領域的專利。甚至在數學領域也都有，像經典級的 How to Solve It，或是像《德國一流大學教你數學家的 22 個思考工具》這本，都有許多論述。&lt;br/>只是傳統數學教學被炫麗解題花招綁架了，導致數學教育失靈。&lt;br/>只要第一線教育現場不重視根本思維，那麼，再多一個程式設計課，就會提升下一代素質嗎……？</content>
+    </entry>
+
+
+    <entry>
+        <title>請循其本 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/151626/back-to-the-origin"/>
+        <updated>2016-08-02T01:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-08-08:/blog/151626/20160808072617330</id>
+        <content type="html">老子曰：「五色令人目盲，五音令人耳聾。」&lt;br/>所以，最近我越來越喜歡從原始定義或目標下手。&lt;br/>原理通了，邏輯通了，再加一點點創意及想像力，很多東西都是順理成章就推導得出來。&lt;br/>溯源能力是很重要的，才不會被狀似革新，實則舊瓶裝新酒或跨領域借用的「新觀念」所迷惑。⋯⋯</content>
+    </entry>
 
 
     <entry>
