@@ -5,7 +5,7 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-08-08T07:00:00+08:00</updated>
+    <updated>2016-08-20T01:30:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
@@ -15,7 +15,43 @@
 
 
     <entry>
-        <title>運算思惟其實一點也不神祕 | 軟體架構・絮語</title>
+        <title>系統思考及換位思考，一例 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/241348/on-reading-club"/>
+        <updated>2016-08-20T01:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-08-22:/blog/241348/20160822033133829</id>
+        <content type="html">我選擇某主題作為現階段最希望研發團隊強化鞏固的環節。正好公司最近也想對內部技術分享的形式做一些改變，我就把這兩件事合併處理：以該主題作為技術分享的題材，一舉兩得。&lt;br/>這次讀書會的前置作業，要求參加者，每個人都要先針對我設計過的一系列提問，思考每一則問題，並在共享空間上面作答。&lt;br/>這一段故事，是為了具體解釋這陣子我講的一堆狀似嘴砲的話，也是為了替這段自己努力的方向，留下一份紀錄……</content>
+    </entry>
+
+
+    <entry>
+        <title>從限制理論看 DevOps / 演講錄影檔公開 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/157917/devops-a-toc-perspective"/>
+        <updated>2016-08-17T23:30:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-08-22:/blog/157917/20160822032832928</id>
+        <content type="html">整個推導過程，我曾在 DevOps Summit 2016 發表過一次，今晚於 DevOps Taiwan Meetup #2 再發表一次加長版。希望對於推廣 TOC 式的思考方式，以及解決一些 DevOps 難題，有一些幫助。&lt;br/>溫馨小提醒：我推導出來的結論，與你推導的結論，可能不盡相同；這是正常的。尤其這次為了聚焦在 DevOps 論述，CRT 還遺留一些沒有再繼續往下深究的因果關係（如：各自為政、無誘因、失敗代價高、曾失敗過、惰性），真要再往下深究，有很大比例會碰觸到《目標》、《絕不是靠運氣》、《關鍵鏈》一再點出的核心問題：局部成本觀，甚至還會碰觸到《抉擇》談到的「清晰思考四大障礙」。那又是另一個大哉問了⋯⋯&lt;br/>請把重點放在過程，體驗一下，用這一套「可以幫忙建構及溝通常識的思維方法」，藉以「激發、專注及審視你的直覺」是何滋味。</content>
+    </entry>
+
+
+    <entry>
+        <title>練字與程式設計 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/154829/on-handwriting"/>
+        <updated>2016-08-10T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-08-22:/blog/154829/20160822032528425</id>
+        <content type="html">最近常常趁思考的空檔，拿出紙張，甚至用自製的「斜十字格」A4 紙張，信手寫些字句。&lt;br/>這讓我聯想到程式設計……</content>
+    </entry>
+
+
+    <entry>
+        <title>演算法也有不神祕的一面（下集） | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/154515/on-algorithm-myth"/>
+        <updated>2016-08-09T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-08-22:/blog/154515/20160822031901602</id>
+        <content type="html">記得高中時，建中電研社社刊有一則笑話：&lt;br/>如果高斯 (Gauss) 小學時就學程式設計，他可能就懶得發明等差級數公式了，他會直接坐在電腦前，輸入……</content>
+    </entry>
+
+
+    <entry>
+        <title>運算思惟其實一點也不神祕（上集）| 軟體架構・絮語</title>
         <link href="http://school.soft-arch.net/blog/154064/on-computational-thinking"/>
         <updated>2016-08-08T07:00:00+08:00</updated>
         <id>tag:school.soft-arch.net,2016-08-08:/blog/154064/20160808073021715</id>
