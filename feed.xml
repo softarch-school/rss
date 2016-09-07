@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-08-27T23:30:00+08:00</updated>
+    <updated>2016-09-07T07:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>錯誤處理需要全盤策略 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/256528/eh-global-view"/>
+        <updated>2016-09-07T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-09-07:/blog/256528/20160907045327869</id>
+        <content type="html">繼上次讀書會之後，最近在替團隊安排第二次讀書會的材料。&lt;br/>這次我選擇的主題是【軟體品質講座】。&lt;br/>在蒐集、自炊閱讀材料的過程中，腦中一直想到當年翻譯 The C++ Programming Language 時，一直被洗腦的「要以階層方式、全盤角度考量錯誤處理」觀點，以及對 defensive programming 的保留態度。&lt;br/>搞定這麼一疊閱讀材料後，順便把以前 The C++ Programming Language 的說法調閱出來，做個對照。近 20 年前的觀點，現在來看，仍不過時。搭配這次讀書會精心蒐集的材料，對這種「階層方式、全盤角度」的觀點，掌握得又更徹底了。&lt;br/>以下摘錄 The C++ Programming Language, Special Edition (2000) 書中與這主題有關的內容，順便對舊譯文稍作潤飾。</content>
+    </entry>
 
 
     <entry>
