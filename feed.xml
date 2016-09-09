@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-09-07T07:00:00+08:00</updated>
+    <updated>2016-09-09T07:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>軟體品質講座·閱讀材料 | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/258480/eh-reading-list"/>
+        <updated>2016-09-09T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-09-09:/blog/258480/20160909055922156</id>
+        <content type="html">朋友對我在前一篇文章〈錯誤處理需要全盤策略〉提到的【軟體品質講座】讀書會內容感興趣。此為其一。&lt;br/>最近面試工程師時，談到他們經手過的案例，我都忍不住想引述這份閱讀清單。此為其二。&lt;br/>所以，就公開這份閱讀清單吧。&lt;br/>由於時間限制，我只挑選能夠在兩小時以內自行閱讀完畢、能夠在一個小時以內集體討論完畢的素材。所以，這份閱讀清單，並不是最周全的，但應該足以闡述「階層方式、全盤角度」的錯誤處理觀點。 </content>
+    </entry>
 
 
     <entry>
