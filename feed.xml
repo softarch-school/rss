@@ -5,13 +5,22 @@
     <subtitle>Automate everything, make life easier!</subtitle>
     <link type="application/atom+xml" href="http://feed.soft-arch.net/feed.xml" rel="self"/>
      <link type="text" href="http://school.soft-arch.net/" rel="alternate"/>
-    <updated>2016-09-09T07:00:00+08:00</updated>
+    <updated>2016-09-10T07:00:00+08:00</updated>
     <id>tag:school.soft-arch.net,2016-03-03:/20160303042229671</id>
     <author>
         <name>William Yeh</name>
     </author>
     <rights>Copyright (c) 2015-2016, William Yeh; all rights reserved.</rights>
 
+
+
+    <entry>
+        <title>與導入 Docker 有關的 UDE | 軟體架構・絮語</title>
+        <link href="http://school.soft-arch.net/blog/259030/docker-ude"/>
+        <updated>2016-09-10T07:00:00+08:00</updated>
+        <id>tag:school.soft-arch.net,2016-09-10:/blog/259030/20160910035546543</id>
+        <content type="html">我在九月下旬 Container Summit 2016 的專題演講〈Docker 導入：障礙與對策〉，大致上就是秉持這種「叩其兩端而竭焉」加上 TOC 思維方法的角度，從 Docker 的 UDE 一路推導至核心衝突。血淋淋，但看到癥結，才能對症下藥（或許是猛藥⋯⋯）。&lt;br/>這場演講只有 40 分鐘，應該要聚焦在主題身上。我也不想一再套用同樣的演講鋪陳模式，想嘗試不一樣的。 &lt;br/>因此，我決定先公開「從原始問卷逐一歸類 UDE」這部分的結果。屆時，雖然可能少了些 "me, too!" 的笑聲或嘆息，但我就可以專心從歸納出來的這 15 條 UDE 出發，正面迎戰 CRT 及 evaporating cloud。順便也讓對這議題感興趣的朋友，自己思考看看，如果是你，會如何處理抵制、擘畫導入？&lt;br/>請接招！</content>
+    </entry>
 
 
     <entry>
